@@ -1,4 +1,0 @@
-This AutoML Classification app is developed using StreamLit, Pandas Profiling, and Pycaret.
-Here we can provide Training Data. Then the Profiling is done using Pandas Profiling and Pycaret is used to train data on MachineLearning Models.Then the best model is downloaded. Streamlit is an open-source app framework for Machine Learning and Data Science.
-Once the whole Project is cloned, install the required dependencies and execute the command streamlit run app.py command.
-The web page will pop up where u can upload data and then do the Profiling part and then find best model for ur classification data and then download the model in pickle format.
